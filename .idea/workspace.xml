@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00dc34d0-d0e9-43eb-978c-909d80797a06" name="Default Changelist" comment="" />
+    <list default="true" id="00dc34d0-d0e9-43eb-978c-909d80797a06" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ex6_Cameron_Humphreys/src/Informer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ex6_Cameron_Humphreys/src/Informer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ex6_Cameron_Humphreys/src/Spy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ex6_Cameron_Humphreys/src/Spy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ex6_Cameron_Humphreys/src/StaticMediator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ex6_Cameron_Humphreys/src/StaticMediator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ex6_Cameron_Humphreys/src/mainStatic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ex6_Cameron_Humphreys/src/mainStatic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Informer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Informer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StaticMediator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StaticMediator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mainStatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mainStatic.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +24,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="26CdJVSzJsZQ9u0YAXUrg9Iim8c" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +36,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="mainStatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -69,25 +84,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1085" y="402" key="#com.intellij.ide.util.MemberChooser" timestamp="1646936083452">
+    <state x="1085" y="402" key="#com.intellij.ide.util.MemberChooser" timestamp="1646938923383">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1085" y="402" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400/2560.258.1920.1040@0.0.2560.1400" timestamp="1646936083452" />
-    <state width="2517" height="213" key="GridCell.Tab.0.bottom" timestamp="1646936394790">
+    <state x="1085" y="402" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400/2560.258.1920.1040@0.0.2560.1400" timestamp="1646938923383" />
+    <state width="2517" height="374" key="GridCell.Tab.0.bottom" timestamp="1646940765616">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="213" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.258.1920.1040@0.0.2560.1400" timestamp="1646936394790" />
-    <state width="2517" height="213" key="GridCell.Tab.0.center" timestamp="1646936394789">
+    <state width="2517" height="374" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.258.1920.1040@0.0.2560.1400" timestamp="1646940765616" />
+    <state width="2517" height="374" key="GridCell.Tab.0.center" timestamp="1646940765616">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="213" key="GridCell.Tab.0.center/0.0.2560.1400/2560.258.1920.1040@0.0.2560.1400" timestamp="1646936394789" />
-    <state width="2517" height="213" key="GridCell.Tab.0.left" timestamp="1646936394789">
+    <state width="2517" height="374" key="GridCell.Tab.0.center/0.0.2560.1400/2560.258.1920.1040@0.0.2560.1400" timestamp="1646940765616" />
+    <state width="2517" height="374" key="GridCell.Tab.0.left" timestamp="1646940765616">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="213" key="GridCell.Tab.0.left/0.0.2560.1400/2560.258.1920.1040@0.0.2560.1400" timestamp="1646936394789" />
-    <state width="2517" height="213" key="GridCell.Tab.0.right" timestamp="1646936394790">
+    <state width="2517" height="374" key="GridCell.Tab.0.left/0.0.2560.1400/2560.258.1920.1040@0.0.2560.1400" timestamp="1646940765616" />
+    <state width="2517" height="374" key="GridCell.Tab.0.right" timestamp="1646940765616">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="213" key="GridCell.Tab.0.right/0.0.2560.1400/2560.258.1920.1040@0.0.2560.1400" timestamp="1646936394790" />
+    <state width="2517" height="374" key="GridCell.Tab.0.right/0.0.2560.1400/2560.258.1920.1040@0.0.2560.1400" timestamp="1646940765616" />
   </component>
 </project>

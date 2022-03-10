@@ -20,10 +20,6 @@ public abstract class Informer {
         mediator.informerChange(this);
     }
 
-    public void setName(String name) {
-        this.name = name;
-    }
-
     public void setSecret(String secret) {
         this.secret = secret;
     }
@@ -34,6 +30,10 @@ public abstract class Informer {
 
     public String getSecret() {
         return secret;
+    }
+
+    public StaticMediator getMediator() {
+        return mediator;
     }
 }
 
