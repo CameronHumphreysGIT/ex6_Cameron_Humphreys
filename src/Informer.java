@@ -4,12 +4,11 @@ public abstract class Informer {
 
     private String name;
     private String secret;
-    private StaticMediator mediator;
+    private Mediator mediator;
 
-    public Informer(String n, String sec, StaticMediator sm) {
+    public Informer(String n, String sec) {
         name = n;
         secret = sec;
-        mediator = sm;
     }
 
     public String toString() {
@@ -32,41 +31,21 @@ public abstract class Informer {
         return secret;
     }
 
-    public StaticMediator getMediator() {
-        return mediator;
+    public void setMediator(Mediator m) {
+        mediator = m;
     }
+
 }
 
-class Spy extends Informer {
-    private int clearance;
-
-    public Spy (String n, String sec, int clear, StaticMediator sm) {
-        super(n,sec,sm);
-        clearance = clear;
-    }
-
-    public String toString() {
-        String s = super.toString();
-        return s + "  and my clearance " + clearance;
-    }
-
-    public void setClearance(int clearance) {
-        this.clearance = clearance;
-    }
-
-    public int getClearance() {
-        return clearance;
-    }
-}
 
 class Agent extends Informer {
-    public Agent(String n, String sec, StaticMediator sm) {
-        super(n, sec, sm);
+    public Agent(String n, String sec) {
+        super(n, sec);
     }
 }
 
 class Mole extends Informer {
-    public Mole(String n, String sec, StaticMediator sm) {
-        super(n, sec, sm);
+    public Mole(String n, String sec) {
+        super(n, sec);
     }
 }

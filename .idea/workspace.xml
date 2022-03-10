@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00dc34d0-d0e9-43eb-978c-909d80797a06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ex6_Cameron_Humphreys/src/Informer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ex6_Cameron_Humphreys/src/Informer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ex6_Cameron_Humphreys/src/Spy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ex6_Cameron_Humphreys/src/Spy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ex6_Cameron_Humphreys/src/StaticMediator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ex6_Cameron_Humphreys/src/StaticMediator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ex6_Cameron_Humphreys/src/mainStatic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ex6_Cameron_Humphreys/src/mainStatic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Informer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Informer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StaticMediator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StaticMediator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mainStatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mainStatic.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +80,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1085" y="402" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400/2560.258.1920.1040@0.0.2560.1400" timestamp="1646938923383" />
+    <state x="1060" y="418" key="FileChooserDialogImpl" timestamp="1646941032688">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="418" key="FileChooserDialogImpl/0.0.2560.1400/2560.258.1920.1040@0.0.2560.1400" timestamp="1646941032688" />
     <state width="2517" height="374" key="GridCell.Tab.0.bottom" timestamp="1646940765616">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -104,5 +100,13 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2517" height="374" key="GridCell.Tab.0.right/0.0.2560.1400/2560.258.1920.1040@0.0.2560.1400" timestamp="1646940765616" />
+    <state x="945" y="400" key="NewModule_or_Project.wizard" timestamp="1646941038953">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="945" y="400" key="NewModule_or_Project.wizard/0.0.2560.1400/2560.258.1920.1040@0.0.2560.1400" timestamp="1646941038953" />
+    <state x="924" y="321" key="new project wizard" timestamp="1646941026119">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="924" y="321" key="new project wizard/0.0.2560.1400/2560.258.1920.1040@0.0.2560.1400" timestamp="1646941026119" />
   </component>
 </project>
